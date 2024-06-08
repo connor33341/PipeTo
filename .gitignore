@@ -2,3 +2,4 @@ build
 *.txt
 pyinstaller.bat
 compile.bat
+dist
